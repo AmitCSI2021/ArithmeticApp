@@ -7,6 +7,10 @@ public class CoreLogic {
 
 		result = n1 + n2;
 
-		System.out.println(result);
+		System.out.println("\n Addition "+ result);
+		
+		result = n1 - n2;
+
+		System.out.println("\n Substraction: "+ result);
 	}
 }
