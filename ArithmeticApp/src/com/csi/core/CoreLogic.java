@@ -12,5 +12,9 @@ public class CoreLogic {
 		result = n1 - n2;
 
 		System.out.println("\n Substraction: "+ result);
+		
+		result = n1 * n2;
+
+		System.out.println("\n Multiplication: "+ result);
 	}
 }
